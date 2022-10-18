@@ -1,6 +1,5 @@
 #ifndef _MEMDC_H_
 #define _MEMDC_H_
-
 //////////////////////////////////////////////////
 // CMyMemDC - memory DC
 //
